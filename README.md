@@ -1,17 +1,12 @@
-# House Price Prediction | 아파트 실거래가 예측
-
-## Team(ML_4조)
-
-| ![김정헌](https://avatars.githubusercontent.com/u/156163982?v=4) | ![지수영](https://avatars.githubusercontent.com/u/156163982?v=4) | ![유현지](https://avatars.githubusercontent.com/u/156163982?v=4) | ![박주혁](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김민혁](https://avatars.githubusercontent.com/u/156163982?v=4) |
-| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [김정헌](https://github.com/UpstageAILab)             |            [지수영](https://github.com/UpstageAILab)             |            [유현지](https://github.com/UpstageAILab)             |            [박주혁](https://github.com/UpstageAILab)             |            [김민혁](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+# Document Type Classification | 문서 타입 분류
 
 ## 1. Competiton Info
 
 ### Overview
 
-- House Price Prediction 경진대회는 주어진 데이터를 활용하여 서울의 아파트 실거래가를 효과적으로 예측하는 모델을 개발하는 대회입니다.
+- 문서 타입 분류 대회는  computer vision domain에서 가장 중요한 태스크인 이미지 분류 대회입니다.
+
+이미지 분류란 주어진 이미지를 여러 클래스 중 하나로 분류하는 작업입니다. 이러한 이미지 분류는 의료, 패션, 보안 등 여러 현업에서 기초적으로 활용되는 태스크입니다. 딥러닝과 컴퓨터 비전 기술의 발전으로 인한 뛰어난 성능을 통해 현업에서 많은 가치를 창출하고 있습니다.
 
 ![image](https://github.com/UpstageAILab2/upstage-ml-regression-4/assets/114049128/b0e34864-01ae-4d65-95fe-5aa96d31606b)
 
