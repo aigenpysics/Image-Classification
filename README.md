@@ -2,33 +2,6 @@
 
 ## **Team: CV_4조**
 
-<table>
-<tr>
-<td> <div align=center> 팀장 </div> </td>
-<td> <div align=center> 팀원</div> </td>
-<td> <div align=center> 팀원</div> </td>
-<td> <div align=center> 팀원</div> </td>
-</tr>
-<tr>
-<td> <div align=center> <b>김동균</b> </div> </td>
-<td> <div align=center> <b>김정헌</b> </div> </td>
-<td> <div align=center> <b>임승환</b> </div> </td>
-<td> <div align=center> <b>지수영</b> </div> </td>
-</tr>
-<tr>
-<td> <img alt="Github" src="https://avatars.githubusercontent.com/u/156163982?v=4" width="150" height="150"/> </td>
-<td> <img alt="Github" src="https://avatars.githubusercontent.com/u/156163982?v=4" width="150" height="150"/> </td>
-<td> <img alt="Github" src="https://i.ibb.co/KF0w5S0/image.png" width="150" height="150"/> </td>
-<td> <img alt="Github" src="https://avatars.githubusercontent.com/u/156163982?v=4" width="150" height="150"/> </td>
-</tr>
-<tr>
-<td> <div align=center> <a href="https://github.com/"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </a></div> </td>
-<td> <div align=center> <a href="https://github.com/"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </a></div> </td>
-<td> <div align=center> <a href="https://github.com/LimSH0731"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </a></div> </td>
-<td> <div align=center> <a href="https://github.com/"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </a></div> </td>
-</tr>
-</table>
-
 **0. Overview**
 
 **Environment**
